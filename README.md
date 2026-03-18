@@ -62,7 +62,7 @@ Users → Security Groups → RBAC Roles → Azure Resources
 
 The following diagram illustrates how users authenticate through Microsoft Entra ID and receive access to Azure resources through security groups and RBAC roles.
 
-![Architecture Diagram](architecture-diagram.png)
+![Architecture Diagram](<Architecture Diagram-1.png>)
 
 ---
 
